@@ -2,6 +2,7 @@
 
 ## What is this?
 A simple example of microservices made for running in Open Shift
+This has been modified for kicks and giggles by Saad Khan
 
 ![Screenshot](./.screens/TBD.png)
 
