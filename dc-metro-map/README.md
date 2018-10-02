@@ -2,7 +2,7 @@
 
 ## What is this?
 A simple example of a node.js + mapbox web application configured to run on Red Hat's OpenShift.
-This commit is meant to test webhooks on openshift.
+This commit is meant to test webhooks on openshift. By Saad K
 
 ![Screenshot](./.screens/2016-03-30_2135.png?raw=true)
 
